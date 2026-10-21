@@ -1,3 +1,16 @@
+# Visual Studio
+.vs/
+ipch/
+*.VC.db
+*.ipch
+[Dd]ebug/
+[Rr]elease/
+x64/
+
+# Qt build files (可选)
+qmake/
+
+
 # Prerequisites
 *.d
 
@@ -22,6 +35,7 @@
 *.dylib
 *.dll
 *.so.*
+
 
 # Fortran module files
 *.mod

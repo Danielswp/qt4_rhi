@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>translations/Translation_zh.qm</file>
+        <file>shaders/shader.frag.glsl</file>
+        <file>shaders/shader.vert.glsl</file>
+        <file>textures/wall.jpg</file>
+        <file>shaders/shader2.frag.glsl</file>
+    </qresource>
+</RCC>
